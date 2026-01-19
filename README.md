@@ -62,3 +62,12 @@ The target variable indicates whether the customer defaulted on payment in the n
 
 ## Conclusion
 This project demonstrates how different machine learning models can be applied to a real-world credit risk problem. While simpler models offer transparency, tree-based models add value by better capturing risky customer behavior, which is critical in financial decision-making.
+
+---
+
+## Author
+ * Name: Anushka Singh
+ * Institution: Gokhale Institute of Politics and Economics
+ * Github: https://github.com/09AnushkaSingh
+ * Linkedin: https://www.linkedin.com/in/anushka09singh/
+ * Date: January 2026

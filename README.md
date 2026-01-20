@@ -16,6 +16,11 @@ The dataset includes customer-level information such as:
 
 The target variable indicates whether the customer defaulted on payment in the next month.
 
+**Dataset Source:**  
+The dataset used in this project is the *Credit Card Default Dataset* originally published by the UCI Machine Learning Repository.  
+It contains anonymized credit card client data and is widely used for academic research and credit risk modeling.
+
+
 ---
 
 ## Methodology

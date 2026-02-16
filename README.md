@@ -10,13 +10,6 @@ The project follows an end-to-end ML workflow from data cleaning and EDA to mode
 ---
 
 ## Dataset Description
-The dataset includes customer level information such as:
-- Demographic details (age, gender, education, marital status)
-- Credit limit
-- Monthly billing amounts
-- Historical repayment status and payment behavior
-
-The target variable indicates whether the customer defaulted on payment in the next month.
 
 **Dataset Source:**  
 The dataset contains customer level financial and demographic information including:

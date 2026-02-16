@@ -49,6 +49,7 @@ Source: UCI Machine Learning Repository – Credit Card Default Dataset
 
 ### 3. Model Building
 Two classification models were implemented:
+
  **Logistic Regression**
 - Used as an interpretable baseline model
 - Applied feature scaling

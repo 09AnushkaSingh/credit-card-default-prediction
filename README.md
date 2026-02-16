@@ -49,12 +49,12 @@ Source: UCI Machine Learning Repository – Credit Card Default Dataset
 
 ### 3. Model Building
 Two classification models were implemented:
-- **Logistic Regression**
+ **Logistic Regression**
 - Used as an interpretable baseline model
 - Applied feature scaling
 - Evaluated using Accuracy, ROC–AUC, Recall, Confusion Matrix
 
-- **Decision Tree Classifier**
+ **Decision Tree Classifier**
 - Captures non-linear relationships
 - Limited tree depth to reduce overfitting
 - Evaluated using Accuracy, ROC–AUC, Recall, Confusion Matrix
@@ -67,6 +67,7 @@ Models were evaluated using:
 - ROC-AUC Score
 - Defaulter Recall
 - Confusion Matrix
+  
 Since the dataset is imbalanced, ROC-AUC and Recall for defaulters were prioritized over accuracy.
 
 ## Model Comparison Summary
